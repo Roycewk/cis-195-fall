@@ -1,0 +1,57 @@
+p {
+    color:azure;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    color: azure;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color:azure;
+    background-color: black;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    background-color: rgba(118, 118, 118, 0.701);
+}
+
+footer{
+    position:fixed;
+    bottom: 0;
+    text-align: center;
+}
+img {
+  width: 750px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+.textback{
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+.headerback{
+    background-color: black;
+}
+.bottomtext{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+}
